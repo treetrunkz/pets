@@ -1,0 +1,16 @@
+{
+  "name": "eleacarl/328/pets",
+  "authors": [
+    {
+      "name": "Eleanor",
+      "email": "ecarl@mail.greenriver.edu"
+    },
+    {
+      "name": "Joanna",
+      "email": "jfolk2@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
