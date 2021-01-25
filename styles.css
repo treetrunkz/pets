@@ -1,4 +1,10 @@
 body {
     background-color: lavenderblush;
-    color: white;
+    color: purple;
+    max-width: 500px;
+    margin: auto;
+}
+
+h1 {
+    color: purple;
 }

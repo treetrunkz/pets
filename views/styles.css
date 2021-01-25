@@ -1,8 +1,11 @@
 body {
     background-color: lavenderblush;
-    color: rebeccapurple;
+    color: purple;
+    max-width: 500px;
+    margin: auto;
 }
 
 h1 {
-    color: rebeccapurple;
+    color: purple;
 }
+
